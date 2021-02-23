@@ -1,0 +1,17 @@
+cracking the coding interview 
+
+算法两本: 
+elements of programming interviews
+左程云
+
+Java Concurrency in Practice
+Head First Design Patterns(英文版)
+面试完全按照上面的英文书找答案写下来
+
+慕课秒杀 : 07 11 12 15 19 20 21 27
+并发编程 : 图解这个
+敖丙的: 消息队列 ;数据库 ;   redis: 实现队列 ;redis: 统计
+
+看hadoop 视频 和system design 视频
+
+
