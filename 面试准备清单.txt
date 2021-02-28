@@ -14,4 +14,9 @@ Head First Design Patterns(英文版)
 
 看hadoop 视频 和system design 视频
 
+https://www.imooc.com/read/90/article/2485
+https://www.imooc.com/read/49/article/940
+https://github.com/AobingJava/JavaFamily
+
+
 
