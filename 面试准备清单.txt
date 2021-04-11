@@ -18,5 +18,27 @@ https://www.imooc.com/read/90/article/2485
 https://www.imooc.com/read/49/article/940
 https://github.com/AobingJava/JavaFamily
 
+https://cuizhaojin.blog.csdn.net/article/details/103507324?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6.control&dist_request_id=1330144.24275.16181431477497305&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6.control
+
+
+问题大纲
+1.说一下之前做过的项目
+2.Spring Bean的注入过程
+3.Java8的新特性 流式处理的性能
+4.Synchronized和lock底层实现原理 分别是什么层面的 jdk or JVM?
+5.Synchronized 锁不同的作用域如何实现？锁升级过程
+6.CAS 乐观锁 自旋效率 高并发场景阻塞怎么解决
+7.线程池 
+8.JVM调优基本步骤 CPU100%问题怎么解决
+9.MySQL 慢查询优化、索引结构，B树和B+树的区别，MyIsam和InnoDb区别,一张表最多可以建多少个索引？
+10.Redis:为什么选择使用Redis？为什么这么快？一定是单线程的吗？如何保证高可用？集群机制 缓存击穿和缓存穿透
+11.Spring的优点是什么？AOP和IOC
+12.Dubbo的调用链路，服务暴露过程
+13.了解哪些设计模式？
+14.项目中如何保证幂等性，如何避免重复消费
+15.分布式锁如何实现的？
+16.离职的原因？
+17.职业规划？
+
 
 
